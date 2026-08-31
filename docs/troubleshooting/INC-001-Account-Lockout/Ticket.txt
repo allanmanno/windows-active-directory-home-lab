@@ -1,0 +1,8 @@
+INC-001
+User: Mia Clark
+Username: mclark
+Department: Sales
+
+Issue:
+User cannot sign into the domain after several failed
+password attempts.

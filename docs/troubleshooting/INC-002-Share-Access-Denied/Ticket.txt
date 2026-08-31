@@ -1,0 +1,6 @@
+User: Ava Robinson
+Username: arobinson
+Department: Sales
+
+Problem:
+Ava cannot access \\FILE01\Sales
