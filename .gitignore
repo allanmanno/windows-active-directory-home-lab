@@ -1,0 +1,31 @@
+# Virtual machines
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+# ISO files
+*.iso
+
+# Credentials / secrets
+*password*
+*credential*
+*credentials*
+*.key
+*.secret
+.env
+
+# Generated reports/logs
+reports/
+logs/
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
